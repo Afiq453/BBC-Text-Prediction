@@ -8,7 +8,7 @@
 As one of the most valuable sources of data for businesses, text documents are important. Text documents usually contain important information that could influence investment flows or shape market patterns. As a result, companies commonly employ analysts to track trends through web publications, tweets on social media such as Twitter, or newspaper articles. Therefore this model is build to categorize unseen articles into difference categories namely Sport, Tech, Business, Entertainment and Politics.
 
 # Result achived from the model
-The accuracy that achived using this model is 93% of the accuracy
+Based on the model training, the accuracy that achived is 94% of the accuracy
 
 
 ![Accuracy](https://user-images.githubusercontent.com/95134467/175249193-84c1ac8f-d9bf-4faf-8505-201f483f14ef.png)
