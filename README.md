@@ -9,5 +9,11 @@ As one of the most valuable sources of data for businesses, text documents are i
 
 # Result achived from the model
 The accuracy that achived using this model is 93% of the accuracy
+
+
+![Accuracy](https://user-images.githubusercontent.com/95134467/175249193-84c1ac8f-d9bf-4faf-8505-201f483f14ef.png)
+![graph](https://user-images.githubusercontent.com/95134467/175249211-b6a25a7b-7187-4247-a822-f857d04e8f16.png)
+
+
 ## The Dataset was taken from
 'https://raw.githubusercontent.com/Ankit152/IMDB-sentiment-analysis/master/IMDB-Dataset.csv'
